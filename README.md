@@ -7,7 +7,7 @@
 
 ![image](./docs/assets/teaser.jpg)
 **Figure:** *High-quality facial attributes editing results with InterFaceGAN.*
-
+For further use of this project, we need to solve the problem of convert image to latent space.
 In this repository, we propose an approach, termed as InterFaceGAN, for semantic face editing. Specifically, InterFaceGAN is capable of turning an unconditionally trained face synthesis model to controllable GAN by interpreting the very first latent space and finding the hidden semantic subspaces.
 
 [[Paper (CVPR)](https://arxiv.org/pdf/1907.10786.pdf)]
